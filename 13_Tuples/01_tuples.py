@@ -1,4 +1,3 @@
-# How to define tuple
 """
 This script demonstrates basic tuple operations in Python:
 - Defining tuples, including single-element tuples.
@@ -7,6 +6,8 @@ This script demonstrates basic tuple operations in Python:
     - count(): Counts the number of occurrences of a specified element.
     - index(): Returns the index of the first occurrence of a specified element.
 """
+
+# How to define tuple
 t = (2,4,6,8)
 
 # How to define tuple with single element
