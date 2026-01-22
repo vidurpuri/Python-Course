@@ -21,6 +21,6 @@ a,b,c,d = t2
 print(a,b,c,d)
 
 #common methods of tuples
-t2.count(3) # count the no. of occurence of element in tuple 
-t2.index(3) # provide the index of mentioned element in tuple 
+print(t2.count(3)) # count the no. of occurence of element in tuple
+print(t2.index(3)) # provide the index of mentioned element in tuple
 
