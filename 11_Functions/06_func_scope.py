@@ -21,5 +21,5 @@ def global_scope_example():
     global_var = "I am global"
     print(global_var)  # This will work
     # Uncommenting the next line will raise an error if global_var is not defined
-    # print(another_global_var)  # This will raise an error if another_global_var   
+   # print(another_global_var)  # This will raise an error if another_global_var is not defined
 global_scope_example()  # This will show global variables
