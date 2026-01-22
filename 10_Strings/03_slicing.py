@@ -6,7 +6,7 @@ print(name[1:5])  # idur
 print(name[:3])   # Vid
 print(name[2:])   # dur
 print(name[-4:-1])# dur
-
+   
 
 # Slicing with step
 print(name[::2])  # Vdu
